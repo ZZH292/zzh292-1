@@ -7,5 +7,6 @@ public class test1 {
         System.out.println("args = " );
         System.out.println("args = " );
         System.out.println("args = 5" );
+        System.out.println("args = push" );
     }
 }
